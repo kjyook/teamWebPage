@@ -3,7 +3,7 @@ title = "Markdown syntax"
 date = "2023-05-21T21:29:20+02:00"
 tags = ["go"]
 categories = ["web"]
-banner = "img/banners/banner-2.jpg"
+banner = "https://t1.daumcdn.net/cfile/tistory/164662504F576B8112"
 facebook_author = "GolangSociety"
 +++
 
