@@ -34,3 +34,25 @@ facebook_author = "GolangSociety"
 - 다양한 SSG 툴들이 존재 : Hugo, Jekyll, Gatsby, Hexo, Ghost, Astro, …
 
 ---
+
+## 개인 웹사이트
+
+---
+
+### 개인 웹사이트 만들기
+
+- Hugo SSG를 이용
+
+- Developer Portfolio Theme을 사용
+
+---
+
+### 개인 웹사이트 퍼블리싱
+
+- GitHub Pages의 개인 페이지 이용
+
+- 로컬저장소에 서브모듈 추가
+
+- Theme과 퍼블리싱용 디렉토리를 서브모듈로 추가
+
+---
