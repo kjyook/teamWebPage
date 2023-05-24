@@ -44,6 +44,3 @@ authors = ["souvenirs"]
 - 예) lms.kau.ac.kr
 
 ---
-## 정적 사이트 생성기(SSG)
-
----
