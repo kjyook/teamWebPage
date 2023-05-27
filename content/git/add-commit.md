@@ -5,7 +5,7 @@ tags = ["git"]
 categories = ["git"]
 banner = "img/banners/git-iresy-banner-2.jpg"
 summary="git 소스를 관리하기. add, commit 등의 명령어와 branch에 대해 이해합니다."
-author = ["iresy"]
+authors = ["iresy"]
 +++
 
 ## 관리 대상으로 만들기

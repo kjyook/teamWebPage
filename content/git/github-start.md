@@ -5,7 +5,7 @@ tags = ["git"]
 categories = ["git"]
 banner = "img/banners/git-iresy-banner-1.jpg"
 summary="git을 기반으로 한 원격 저장소 호스팅 서비스 [GitHub](https://github.com)를 시작하기. SSH key를 등록하고, 저장소를 만들고, git clone 명령어를 이용합니다."
-author = ["iresy"]
+authors = ["iresy"]
 +++
 
 ## SSH key 등록하기
