@@ -4,6 +4,7 @@ date = "2023-05-28"
 tags = ["OS", "isolation", "emulation"]
 categories = ["Docker", "Container"]
 banner = "img/banners/container_banner1.jpg"
+summary = "OSS입문 수업에서 배운 내용을 바탕으로 작성한 포스트입니다."
 authors = ["PJG"]
 +++
 
