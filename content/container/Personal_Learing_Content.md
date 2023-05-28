@@ -1,10 +1,10 @@
 +++
 title = "Personal Learning Content"
-date = "2023-05-23"
+date = "2023-05-28"
 tags = ["OS", "isolation", "emulation"]
 categories = ["Docker", "Container", "Teamwork"]
 banner = "img/banners/banner-4.jpg"
-author = ["PJG"]
+authors = ["PJG"]
 +++
 
 ### 개인적으로 컨테이너에 대해 공부를 더 해보고 싶어서 구글링을 통해 자료 조사를 해봤습니다.
