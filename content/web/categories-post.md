@@ -1,7 +1,7 @@
 +++
 title = "Web Site"
 date = "2023-05-22T21:29:20+02:00"
-tags = ["golang", "programming", "theme", "hugo"]
+tags = ["programming", "theme", "hugo"]
 categories = ["web"]
 banner = "https://pbs.twimg.com/media/FYKkjkraUAAEL7j?format=jpg&name=large"
 authors = ["souvenirs"]
