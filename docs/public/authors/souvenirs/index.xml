@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>souvenirs on Universal</title>
+    <link>https://kjyook.github.io/teamWebPage/authors/souvenirs/</link>
+    <description>Recent content in souvenirs on Universal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 May 2023 21:29:20 +0200</lastBuildDate><atom:link href="https://kjyook.github.io/teamWebPage/authors/souvenirs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web Site</title>
+      <link>https://kjyook.github.io/teamWebPage/web/categories-post/</link>
+      <pubDate>Mon, 22 May 2023 21:29:20 +0200</pubDate>
+      
+      <guid>https://kjyook.github.io/teamWebPage/web/categories-post/</guid>
+      <description>웹 사이트(Web Site)  정적 사이트(Static Site)   미리 작성된 웹페이지 파일들을 서비스하는 사이트
+  서버에서 프로그램 실행이 필요없이 HTML, CSS, JavaScript 파일들을 제공
+  Web Server(HTTP Server) 필요
+  클라이언트 사이드의 동적 웹페이지도 정적 사이트에 포함
+  서버의 웹페이지를 수정하지 않는 한 항상 같은 페이지가 보임
+  개발이 쉽고 서비스의 속도가 빠름
+  예) www.kau.ac.kr
+   동적 사이트(Dynamic Site)   미리 만들어져 있는 페이지 파일을 서비스하는 것이 아니라 클라이언트의 요청에 따라 웹페이지를 만들어서 서비스</description>
+    </item>
+    
+    <item>
+      <title>Static Site Generator; SSG &amp; Markdown syntax</title>
+      <link>https://kjyook.github.io/teamWebPage/web/go-is-for-lovers/</link>
+      <pubDate>Sun, 21 May 2023 21:29:20 +0200</pubDate>
+      
+      <guid>https://kjyook.github.io/teamWebPage/web/go-is-for-lovers/</guid>
+      <description>정적 사이트(Static Site)  정적 사이트 생성기(Static Site Generator; SSG)   쉽고 효과적인 방법으로 정적 사이트를 만들어 주는 도구
+  주로 마크업 언어, 템플릿과 모듈 기능을 기반으로 동일한 작업을 반복하지 않게 해주며 편집이 편리한 문서로부터 HTML을 생성해 줌
+  초기 개발 및 업데이트가 편리하고 효율적임
+  다양한 SSG 툴들이 존재 : Hugo, Jekyll, Gatsby, Hexo, Ghost, Astro, …
+   Hugo   Go 언어로 만들어진 정적 사이트 생성기</description>
+    </item>
+    
+  </channel>
+</rss>
