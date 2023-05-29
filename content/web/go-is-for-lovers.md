@@ -1,10 +1,10 @@
 +++
-title = "Markdown syntax"
+title = "Static Site Generator; SSG & Markdown syntax"
 date = "2023-05-21T21:29:20+02:00"
 tags = ["go"]
 categories = ["web"]
 banner = "https://t1.daumcdn.net/cfile/tistory/164662504F576B8112"
-facebook_author = "GolangSociety"
+authors = ["souvenirs"]
 +++
 
 ## 정적 사이트(Static Site)
@@ -72,5 +72,94 @@ facebook_author = "GolangSociety"
 - 로컬저장소에 서브모듈 추가
 
 - Theme과 퍼블리싱용 디렉토리를 서브모듈로 추가
+
+---
+
+## Markdown syntax
+
+---
+
+## 마크다운
+
+---
+
+### 목록
+
+---
+
+#### 제목
+
+---
+
+```
+# 제목 1
+
+## 제목 2
+
+### 제목 3
+
+#### 제목 4
+
+##### 제목 5
+
+###### 제목 6
+
+```
+
+# 제목 1
+
+## 제목 2
+
+### 제목 3
+
+#### 제목 4
+
+##### 제목 5
+
+###### 제목 6
+
+---
+
+#### 번호 있는 목록 : 내림차순 정렬
+
+1. 1번
+
+2. 2번
+
+3. 3번
+
+---
+
+#### 번호 없는 목록 : *, -, +
+
+* 첫번째
+
+- 세번째
+
++ 두번째
+
+-----
+
+* 빨강
+
+  * 녹색
+
+    * 파랑
+
+---
+
+### 강조
+
+---
+
+*single asterisks*    
+
+_single underscores_    
+
+**double asterisks**    
+
+__double underscores__    
+
+~~cancelline~~    
 
 ---
