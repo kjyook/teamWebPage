@@ -1,12 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>os on Universal</title>
+    <title>OS on Universal</title>
     <link>https://kjyook.github.io/teamWebPage/tags/os/</link>
-    <description>Recent content in os on Universal</description>
+    <description>Recent content in OS on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kjyook.github.io/teamWebPage/tags/os/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kjyook.github.io/teamWebPage/tags/os/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OSS Learning Content</title>
+      <link>https://kjyook.github.io/teamWebPage/container/oss_learning_content/</link>
+      <pubDate>Sun, 28 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kjyook.github.io/teamWebPage/container/oss_learning_content/</guid>
+      <description>OSS입문 수업에서 배운 내용을 바탕으로 작성한 포스트입니다.</description>
+    </item>
+    
+    <item>
+      <title>Personal Learning Content</title>
+      <link>https://kjyook.github.io/teamWebPage/container/personal_learing_content/</link>
+      <pubDate>Sun, 28 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kjyook.github.io/teamWebPage/container/personal_learing_content/</guid>
+      <description>컨테이너에 대해 개인적으로 공부한 내용을 바탕으로 작성한 포스트입니다.</description>
+    </item>
+    
     <item>
       <title>Open Source-Linux</title>
       <link>https://kjyook.github.io/teamWebPage/linux/oss_linux1-copy/</link>

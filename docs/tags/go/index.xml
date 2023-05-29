@@ -6,7 +6,20 @@
     <description>Recent content in go on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2015 13:47:08 +0200</lastBuildDate><atom:link href="https://kjyook.github.io/teamWebPage/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 May 2023 21:29:20 +0200</lastBuildDate><atom:link href="https://kjyook.github.io/teamWebPage/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Static Site Generator; SSG &amp; Markdown syntax</title>
+      <link>https://kjyook.github.io/teamWebPage/web/go-is-for-lovers/</link>
+      <pubDate>Sun, 21 May 2023 21:29:20 +0200</pubDate>
+      
+      <guid>https://kjyook.github.io/teamWebPage/web/go-is-for-lovers/</guid>
+      <description>정적 사이트(Static Site)  정적 사이트 생성기(Static Site Generator; SSG)   쉽고 효과적인 방법으로 정적 사이트를 만들어 주는 도구
+  주로 마크업 언어, 템플릿과 모듈 기능을 기반으로 동일한 작업을 반복하지 않게 해주며 편집이 편리한 문서로부터 HTML을 생성해 줌
+  초기 개발 및 업데이트가 편리하고 효율적임
+  다양한 SSG 툴들이 존재 : Hugo, Jekyll, Gatsby, Hexo, Ghost, Astro, …
+   Hugo   Go 언어로 만들어진 정적 사이트 생성기</description>
+    </item>
+    
     <item>
       <title>Go is for lovers</title>
       <link>https://kjyook.github.io/teamWebPage/blog/2015/09/17/go-is-for-lovers/</link>

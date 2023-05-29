@@ -6,22 +6,49 @@
     <description>Recent content in Tags on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kjyook.github.io/teamWebPage/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kjyook.github.io/teamWebPage/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>emulation</title>
+      <link>https://kjyook.github.io/teamWebPage/tags/emulation/</link>
+      <pubDate>Sun, 28 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kjyook.github.io/teamWebPage/tags/emulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>isolation</title>
+      <link>https://kjyook.github.io/teamWebPage/tags/isolation/</link>
+      <pubDate>Sun, 28 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kjyook.github.io/teamWebPage/tags/isolation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OS</title>
+      <link>https://kjyook.github.io/teamWebPage/tags/os/</link>
+      <pubDate>Sun, 28 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kjyook.github.io/teamWebPage/tags/os/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>git</title>
+      <link>https://kjyook.github.io/teamWebPage/tags/git/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kjyook.github.io/teamWebPage/tags/git/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>linux</title>
       <link>https://kjyook.github.io/teamWebPage/tags/linux/</link>
       <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://kjyook.github.io/teamWebPage/tags/linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>os</title>
-      <link>https://kjyook.github.io/teamWebPage/tags/os/</link>
-      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://kjyook.github.io/teamWebPage/tags/os/</guid>
       <description></description>
     </item>
     
@@ -35,18 +62,9 @@
     </item>
     
     <item>
-      <title>golang</title>
-      <link>https://kjyook.github.io/teamWebPage/tags/golang/</link>
-      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      
-      <guid>https://kjyook.github.io/teamWebPage/tags/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>hugo</title>
       <link>https://kjyook.github.io/teamWebPage/tags/hugo/</link>
-      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      <pubDate>Mon, 22 May 2023 21:29:20 +0200</pubDate>
       
       <guid>https://kjyook.github.io/teamWebPage/tags/hugo/</guid>
       <description></description>
@@ -55,7 +73,7 @@
     <item>
       <title>theme</title>
       <link>https://kjyook.github.io/teamWebPage/tags/theme/</link>
-      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      <pubDate>Mon, 22 May 2023 21:29:20 +0200</pubDate>
       
       <guid>https://kjyook.github.io/teamWebPage/tags/theme/</guid>
       <description></description>
@@ -64,9 +82,18 @@
     <item>
       <title>go</title>
       <link>https://kjyook.github.io/teamWebPage/tags/go/</link>
-      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      <pubDate>Sun, 21 May 2023 21:29:20 +0200</pubDate>
       
       <guid>https://kjyook.github.io/teamWebPage/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>https://kjyook.github.io/teamWebPage/tags/golang/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>https://kjyook.github.io/teamWebPage/tags/golang/</guid>
       <description></description>
     </item>
     

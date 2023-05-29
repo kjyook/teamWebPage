@@ -6,7 +6,23 @@
     <description>Recent content in theme on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://kjyook.github.io/teamWebPage/tags/theme/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 May 2023 21:29:20 +0200</lastBuildDate><atom:link href="https://kjyook.github.io/teamWebPage/tags/theme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web Site</title>
+      <link>https://kjyook.github.io/teamWebPage/web/categories-post/</link>
+      <pubDate>Mon, 22 May 2023 21:29:20 +0200</pubDate>
+      
+      <guid>https://kjyook.github.io/teamWebPage/web/categories-post/</guid>
+      <description>웹 사이트(Web Site)  정적 사이트(Static Site)   미리 작성된 웹페이지 파일들을 서비스하는 사이트
+  서버에서 프로그램 실행이 필요없이 HTML, CSS, JavaScript 파일들을 제공
+  Web Server(HTTP Server) 필요
+  클라이언트 사이드의 동적 웹페이지도 정적 사이트에 포함
+  서버의 웹페이지를 수정하지 않는 한 항상 같은 페이지가 보임
+  개발이 쉽고 서비스의 속도가 빠름
+  예) www.kau.ac.kr
+   동적 사이트(Dynamic Site)   미리 만들어져 있는 페이지 파일을 서비스하는 것이 아니라 클라이언트의 요청에 따라 웹페이지를 만들어서 서비스</description>
+    </item>
+    
     <item>
       <title>Categories Post</title>
       <link>https://kjyook.github.io/teamWebPage/blog/2021/08/01/categories-post/</link>
