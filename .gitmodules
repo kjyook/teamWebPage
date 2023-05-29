@@ -3,4 +3,4 @@
 	url = https://github.com/devcows/hugo-universal-theme
 [submodule "teamWebPage"]
     path = teamWebPage
-    url = https://kjyook.github.io/teamWebPage
+    url = https://github.com/kjyook/teamWebPage
