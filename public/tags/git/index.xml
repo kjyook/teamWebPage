@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>git on Universal</title>
+    <link>https://kjyook.github.io/teamWebPage/tags/git/</link>
+    <description>Recent content in git on Universal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kjyook.github.io/teamWebPage/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub 시작하기</title>
+      <link>https://kjyook.github.io/teamWebPage/git/github-start/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kjyook.github.io/teamWebPage/git/github-start/</guid>
+      <description>git을 기반으로 한 원격 저장소 호스팅 서비스 &lt;a href=&#34;https://github.com&#34;&gt;GitHub&lt;/a&gt;를 시작하기. SSH key를 등록하고, 저장소를 만들고, git clone 명령어를 이용합니다.</description>
+    </item>
+    
+    <item>
+      <title>소스 관리: add, commit, 복구</title>
+      <link>https://kjyook.github.io/teamWebPage/git/add-commit/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kjyook.github.io/teamWebPage/git/add-commit/</guid>
+      <description>git 소스를 관리하기. add, commit 등의 명령어와 branch에 대해 이해합니다.</description>
+    </item>
+    
+  </channel>
+</rss>
