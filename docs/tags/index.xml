@@ -6,7 +6,34 @@
     <description>Recent content in Tags on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://kjyook.github.io/teamWebPage/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kjyook.github.io/teamWebPage/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>linux</title>
+      <link>https://kjyook.github.io/teamWebPage/tags/linux/</link>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kjyook.github.io/teamWebPage/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>os</title>
+      <link>https://kjyook.github.io/teamWebPage/tags/os/</link>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kjyook.github.io/teamWebPage/tags/os/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>https://kjyook.github.io/teamWebPage/tags/programming/</link>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kjyook.github.io/teamWebPage/tags/programming/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>golang</title>
       <link>https://kjyook.github.io/teamWebPage/tags/golang/</link>
@@ -22,15 +49,6 @@
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       
       <guid>https://kjyook.github.io/teamWebPage/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>programming</title>
-      <link>https://kjyook.github.io/teamWebPage/tags/programming/</link>
-      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      
-      <guid>https://kjyook.github.io/teamWebPage/tags/programming/</guid>
       <description></description>
     </item>
     
