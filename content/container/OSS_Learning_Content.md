@@ -1,10 +1,11 @@
 +++
 title = "OSS Learning Content"
-date = "2023-05-23"
+date = "2023-05-28"
 tags = ["OS", "isolation", "emulation"]
 categories = ["Docker", "Container"]
 banner = "img/banners/container_banner1.jpg"
-author = ["PJG"]
+summary = "OSS입문 수업에서 배운 내용을 바탕으로 작성한 포스트입니다."
+authors = ["PJG"]
 +++
 
 ### 한국항공대학교 소프트웨어학과 전공 수업 중 하나인 '오픈소스SW입문'에서 배운 내용을 정리해 보겠습니다. 특히나, 제가 선택한 주제인 '컨테이너(도커)'에 대해서 정리하겠습니다.
